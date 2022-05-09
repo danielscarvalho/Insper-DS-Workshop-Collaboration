@@ -26,7 +26,7 @@ Hands-on class script
 21. Discussion
 22. Documentação
 
-> Enough for an advanced class
+> Enough for an advanced workshop class
 
 Referências:
 
