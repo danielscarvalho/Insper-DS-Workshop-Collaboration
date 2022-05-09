@@ -11,7 +11,7 @@ Class Script
 6. Clonar projeto (repo)
 7. Subir arquivo (versionar)
 8. Criar projeto (repo) novo local
-9. Adicioar reto ao projeto local e subir arquivo
+9. Adicionar reto ao projeto local e subir arquivo
 10. Publicar script em Python .py
 11. Adicionar colaboradores ao projeto (repo) no GitHub
 12. Colaborar no código do .py
