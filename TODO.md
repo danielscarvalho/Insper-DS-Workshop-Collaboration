@@ -1,6 +1,6 @@
 # Class TODO:
 
-Class Script
+Hands-on class script
 
 > Pre-áula: vídeos do GitHub
 
