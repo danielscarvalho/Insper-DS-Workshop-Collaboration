@@ -11,11 +11,11 @@ Hands-on class script
 4. Git Install (Linux, Mac ou Windows)
 5. Formas de rodar código Python (executar scripts)
 6. Ferramentas para trabalhar com Python
-  - Anaconda-Navigator (Anaconda)
-  - Command Line Interface (CLI)
-  - Spyder
-  - VS Code
-  - Jupyter Notebook  
+   - Anaconda-Navigator (Anaconda)
+   - Command Line Interface (CLI)
+   - Spyder
+   - VS Code
+   - Jupyter Notebook  
 8. Criar conta no GitHub
 9. Criar pasta de projetos (workshop)
 10. Clonar projeto (repo)
