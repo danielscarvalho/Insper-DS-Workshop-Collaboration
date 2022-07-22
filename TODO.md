@@ -30,8 +30,10 @@ Hands-on class script
 19. GitHub Pages
 20. Fork e Pull Request
 21. Colisão ">>>>", "===", "<<<"
+22. Issues
 23. Discussion
-24. Documentação
+24. Google Colab
+25. Documentação
 
 > Enough for an advanced workshop class
 
@@ -44,4 +46,3 @@ OUT:
 
 18. GitHub Actions CI/CD
 21. Deploy Flask (Python) em nuvem (Google Cloud Play)
-22. Issues
