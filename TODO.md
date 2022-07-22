@@ -10,21 +10,26 @@ Hands-on class script
 3. Git Download
 4. Git Install (Linux, Mac ou Windows)
 5. Formas de rodar código Python (executar scripts)
-6. Ferramentas para trabalhar com Python 
-7. Criar conta no GitHub
-8. Criar pasta de projetos (workshop)
-9. Clonar projeto (repo)
-10. Subir arquivo (versionar)
-11. Criar projeto (repo) novo local
-12. Adicionar ropo ao projeto local e subir arquivo
-13. Publicar script em Python .py
-14. Adicionar colaboradores ao projeto (repo) no GitHub
-15. Colaborar no código do .py
-16. Mudar script
-17. Pull/Push e comandos básicos
-18. GitHub Pages
-19. Fork e Pull Request
-20. Colisão ">>>>", "===", "<<<"
+6. Ferramentas para trabalhar com Python
+  - Anaconda-Navigator (Anaconda)
+  - Command Line Interface (CLI)
+  - Spyder
+  - VS Code
+  - Jupyter Notebook  
+8. Criar conta no GitHub
+9. Criar pasta de projetos (workshop)
+10. Clonar projeto (repo)
+11. Subir arquivo (versionar)
+12. Criar projeto (repo) novo local
+13. Adicionar ropo ao projeto local e subir arquivo
+14. Publicar script em Python .py
+15. Adicionar colaboradores ao projeto (repo) no GitHub
+16. Colaborar no código do .py
+17. Mudar script
+18. Pull/Push e comandos básicos
+19. GitHub Pages
+20. Fork e Pull Request
+21. Colisão ">>>>", "===", "<<<"
 23. Discussion
 24. Documentação
 
